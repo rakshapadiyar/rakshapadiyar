@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rakshapadiyar
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently enrolled in Web Developmrnt Bootcamp By Dr.Angela Yu and I am learning the MERN stack.
+- 🌱 I’m currently enrolled in Web Development Bootcamp By Dr.Angela Yu and I am learning the MERN stack.
 - 💞️ I’m looking to collaborate on open source web projects.  
 - 📫 to reach me, linkedin.com/in/rakshapadiyar
 
